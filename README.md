@@ -17,7 +17,7 @@ Our main objective is to analyse the data to:
 * Identify distinct customer segments based on their spending habits and previous interactions with the bank by employing clustering algorithms.
 * Offer recommendations to the bank on improving marketing strategies and customer service tailored to these segments.  
 
-7.	Actionable Insights & Recommendations
+3.	Actionable Insights & Recommendations
 
 * Cluster 2 is the perfect target group for growing the credit card customer base in the upcoming financial year, as they engage in credit card usage frequently and seamlessly.
 * Cluster 0 from K-means and Cluster 3 from agglomerative clustering account for nearly 28% of the population that has made the most bank visits. In today's online banking era, frequent visits may indicate a lack of understanding of online policies and benefits. Therefore, targeted marketing campaigns and educational resources highlighting the advantages of online banking could help expand the customer base and improve understanding of credit card usage.
